@@ -567,3 +567,4 @@ The `ionic state clear` method will clear out your platforms and plugins directo
 The `ionic state reset` method will first remove your platforms and plugins folders. Then it will look at your `package.json` file to re-install the platforms and plugins as specified there.
 
 This command can be helpful for you to reinstall your plugins and platforms to get a fresh start.
+# ionic1.6.6 
